@@ -20,7 +20,7 @@ The Shoe Shopping Website provides users with an interactive platform to explore
 - HTML
 - CSS
 - JavaScript
-- Bootstrap (optional)
+
 
 ## Setup
 
